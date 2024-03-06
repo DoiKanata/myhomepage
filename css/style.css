@@ -90,3 +90,20 @@ li{
     text-align: left;
 }
 
+
+#donuts ul {
+    display: flex;
+    justify-content: space-between;
+}
+#donuts li {
+    width: 32%;
+}
+
+
+#footer {
+    font-size: 0.5rem;
+    padding: 10px 0;
+    text-align: center;
+}
+
+
