@@ -24,3 +24,10 @@ li{
 .site-title a {
     display: block;
 }
+.section-title{
+    display: inline-block;
+    font-size: 2rem;
+    text-align: center;
+    marigin-bottom: 60px;
+    border-bottom: solid 1px #383e45;
+}
