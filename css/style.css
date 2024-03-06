@@ -91,11 +91,11 @@ li{
 }
 
 
-#経歴 ul {
+#donuts ul {
     display: flex;
     justify-content: space-between;
 }
-#経歴 li {
+#donuts li {
     width: 32%;
 }
 
@@ -119,10 +119,10 @@ li{
         margin-right: 0;
      }
 
-    #経歴 ul {
+    #donuts ul {
         flex-direction: column;
     }
-    #経歴 li {
+    #donuts li {
         width: 100%;
         margin-bottom: 30px;
     }
